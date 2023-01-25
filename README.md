@@ -10,6 +10,7 @@ pnpm install
 
 ## Usage
 
+- Create a .env file
 - Add your OPENAI_API_KEY to the .env file
 - Run the following command
 
